@@ -30,10 +30,6 @@ To calibrate your camera, follow these steps:
 
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and create a pull request. Ensure that your code follows the project's coding standards and includes appropriate tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 For questions or support, please reach out to [Dishant Gotis](https://github.com/Dishant-Gotis).
